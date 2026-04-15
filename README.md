@@ -92,7 +92,7 @@ myTibetan bundles the largest collection of Tibetan dictionaries available in an
 [84000 Dict] |84000 translation project glossary| Tib-Eng
 [84000 Skt]| 84000 translation project glossary| Tib-Skt
 [IW+RY]| Ives Waldo and Rangjung Yeshe| Tib-Eng
-[JA]| Heinrich August Jäschke (1882)| Tib-Skt-Eng
+[JA]| Heinrich August Jäschke (Jaschke, H., 1882)| Tib-Skt-Eng
 [JH] |Jeffrey Hopkins| Tib-Skt-Eng
 [Monlam Eng-Tib]| Monlam| Eng-Tib
 [Monlam Tib-Eng]| Monlam| Tib-Eng
