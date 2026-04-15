@@ -126,7 +126,7 @@ myTibetan is a modern, cross-platform native app built with open-source technolo
 
 ## Support the Developer
 
-myTibetan is free and open source. If you find it useful for your Tibetan studies, please consider:
+myTibetan is completly free. If you find it useful for your Tibetan studies, please consider:
 
 - Leaving a review on the [App Store](https://apps.apple.com/app/mytibetan/id1436723937) or [Google Play](https://play.google.com/store/apps/details?id=com.rahmobile.myTibetan)
 - [Supporting development](https://donate.stripe.com/14AbJ2fu98D8fHf5ZlcjS00) with a donation
@@ -150,5 +150,5 @@ This project is licensed under the [MIT License](LICENSE).
 <p align="center">
   <strong>བོད་སྐད། - Tibetan Dictionary - Wylie Transliteration - Buddhist Studies - Offline Translation</strong>
   <br>
-  <sub>myTibetan - Search multiple Tibetan dictionaries offline. Wylie, Unicode, English. Free and open source.</sub>
+  <sub>myTibetan - Search multiple Tibetan dictionaries offline. Wylie, Unicode, English and Russian (Русский)!</sub>
 </p>
