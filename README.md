@@ -35,7 +35,7 @@
 
 ## What is myTibetan?
 
-**myTibetan** is a free, professional-grade Tibetan dictionary and translation app that brings **19 authoritative dictionaries** together in one place. Built for students, scholars, translators, and Buddhist practitioners, it lets you search in Wylie transliteration, Tibetan Unicode (བོད་ཡིག), or English - all completely offline.
+**myTibetan** is a free, professional-grade Tibetan dictionary and translation app that brings **multiple authoritative dictionaries** together in one place. Built for students, scholars, translators, and Buddhist practitioners, it lets you search in Wylie transliteration, Tibetan Unicode (བོད་ཡིག), or English - all completely offline.
 
 Completely rebuilt from the ground up in version 3.0 with a modern native interface, blazing-fast search, and powerful features like sentence analysis and bidirectional Wylie-Unicode conversion.
 
@@ -51,7 +51,7 @@ Completely rebuilt from the ground up in version 3.0 with a modern native interf
 
 ### Dictionary Search
 
-- **Search across 19 dictionaries simultaneously** - Wylie, Tibetan Unicode, or English
+- **Search across multiple dictionaries simultaneously** - Wylie, Tibetan Unicode, or English
 - **Instant results** with search term highlighting across scripts
 - **Tap any result** to see full descriptions from all dictionary sources
 - **Share entries** via clipboard, Google Translate, or your notes app
@@ -150,5 +150,5 @@ This project is licensed under the [MIT License](LICENSE).
 <p align="center">
   <strong>བོད་སྐད། - Tibetan Dictionary - Wylie Transliteration - Buddhist Studies - Offline Translation</strong>
   <br>
-  <sub>myTibetan - Search 21 Tibetan dictionaries offline. Wylie, Unicode, English. Free and open source.</sub>
+  <sub>myTibetan - Search multiple Tibetan dictionaries offline. Wylie, Unicode, English. Free and open source.</sub>
 </p>
